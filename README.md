@@ -20,3 +20,8 @@ En este problema se diseñara una pagina web desde cero con todo lo que implica 
 8️⃣La página debe de ser responsive para poderla ver desde el celular.
 
 9️⃣La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
+
+#Index - Pagina principal
+✍️Todos las imagenes han sido sacadas de https://pixabay.com/es/ y solo estan con fines educativos, no comerciales. 
+
+![Image text](https://github.com/ryu-ed/AbogaBot/blob/main/images/LayerAppWeb.png)
